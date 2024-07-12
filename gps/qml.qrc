@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>placeholder.png</file>
+        <file>compas1.png</file>
+    </qresource>
+</RCC>
